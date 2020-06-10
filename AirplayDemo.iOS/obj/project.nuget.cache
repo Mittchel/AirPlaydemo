@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uhz920y5jG4FGKWF3xLIHVxb/n8KBimzpaR4C5MwPD0MzWBLZHGvGNxWUO09l4McHz6Y4b6f8EHM4SNkvVKZsQ==",
+  "success": true,
+  "projectFilePath": "/Users/mittchelvanvliet/Projects/AirplayDemo/AirplayDemo.iOS/AirplayDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/mittchelvanvliet/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/mittchelvanvliet/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/mittchelvanvliet/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

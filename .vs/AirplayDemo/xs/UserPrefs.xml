@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{DE3DE557-940A-41F2-BA2D-77201596224C}|Default">
+  <MonoDevelop.Ide.ItemProperties.AirplayDemo.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A68AC989-65C3-4F67-97B0-CC0F912A9B93" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AirplayDemo.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="AirplayDemo.iOS/AppDelegate.cs" Line="30" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AirplayDemo" expanded="True">
+            <Node name="AirplayDemo.iOS" expanded="True">
+              <Node name="AppDelegate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AirplayDemo.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AirplayDemo FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
